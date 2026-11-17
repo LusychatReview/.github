@@ -4,7 +4,7 @@
 
 ### Meet realistic AI girls on LusyChat AI. Create, customize, and connect with beautiful AI personalities that wait for you every day.
 
-[![Lusychat](./banner.png)](https://chubby-gf.com/lusychat)
+[![Lusychat](./banner.png)]
 
 </div>
 
@@ -18,7 +18,7 @@ Each character can have her own look, tone and opening line. The chat stays tied
 
 It runs in the browser on desktop and phone. An Android app is also listed on the site. You must be 18+.
 
-[Create your character on Lusychat](https://chubby-gf.com/lusychat)
+[Create your character on Lusychat]
 
 ---
 
@@ -34,7 +34,7 @@ It runs in the browser on desktop and phone. An Android app is also listed on th
 
 **Your own or someone else's.** Use a community character if you want to start in a minute, or build one around a specific look and personality.
 
-[Start a chat on Lusychat](https://chubby-gf.com/lusychat)
+[Start a chat on Lusychat]
 
 ---
 
@@ -54,7 +54,7 @@ It runs in the browser on desktop and phone. An Android app is also listed on th
 
 **How it works**
 
-1. [Open Lusychat](https://chubby-gf.com/lusychat). You must be 18+.
+1. [Open Lusychat]. You must be 18+.
 2. Pick a character from the library or create one: name, look, personality, greeting.
 3. Send the first message and see if the tone fits.
 4. Generate an image only after the character feels right. Check your coin balance first.
@@ -62,11 +62,11 @@ It runs in the browser on desktop and phone. An Android app is also listed on th
 
 <div align="center">
 
-<a href="https://chubby-gf.com/lusychat"><img src="./start-chat.png" width="200" alt="Start chat"></a>
+<a href="#"><img src="./start-chat.png" width="200" alt="Start chat"></a>
 
 </div>
 
-[Join Lusychat](https://chubby-gf.com/lusychat)
+[Join Lusychat](#)
 
 ---
 
@@ -74,7 +74,7 @@ It runs in the browser on desktop and phone. An Android app is also listed on th
 
 Do not budget from a review. Lusychat has a free tier with a limited number of daily messages. Paid plans add more messages, larger context and LusyCoins for images. Coin costs and plan names change. Open the upgrade screen and read what you actually get before you pay.
 
-[See Lusychat plans](https://chubby-gf.com/lusychat)
+[See Lusychat plans](#)
 
 ---
 
