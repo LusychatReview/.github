@@ -128,10 +128,10 @@ No. This is an independent overview. Links go to the product.
 
 Lusychat fits if you want AI characters you can shape, talk to and turn into images. Check the live plan and coin costs, then decide.
 
-<a href="https://chubby-gf.com/lusychat"><img src="./start-chat.png" width="200" alt="Start chat"></a>
+<a href="#"><img src="./start-chat.png" width="200" alt="Start chat"></a>
 
 <br><br>
 
-[Try Lusychat](https://chubby-gf.com/lusychat)
+[Try Lusychat]
 
 </div>
